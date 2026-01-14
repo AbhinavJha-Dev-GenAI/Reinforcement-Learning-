@@ -10,12 +10,16 @@
 Reinforcement Learning (RL) is about creating agents that learn to make decisions by interacting with an environment to maximize rewards. This is the technology behind AlphaGo, self-driving logic, and RLHF (Reinforcement Learning from Human Feedback).
 
 ### Core Topics
-- ✅ **RL Fundamentals**: Markov Decision Processes (MDP), States, Actions, and Rewards.
-- ✅ **Classical RL**: Q-Learning, SARSA, and Dynamic Programming.
-- ✅ **Deep RL**: Deep Q-Networks (DQN), Experience Replay, and Target Networks.
-- ✅ **Policy Gradients**: PPO (Proximal Policy Optimization), A2C, and TRPO.
-- ✅ **Model-Based vs Model-Free**: Understanding the trade-offs in environment modeling.
-- ✅ **Multi-Agent RL**: Cooperative and competitive agent environments.
+- ✅ **[01. RL Fundamentals](01-RL-Fundamentals/README.md)**: Markov Decision Processes (MDP), States, Actions, and Rewards.
+- ✅ **[02. Classical RL](02-Classical-RL/README.md)**: Q-Learning, SARSA, and Dynamic Programming.
+- ✅ **[03. Deep RL](03-Deep-RL/README.md)**: Deep Q-Networks (DQN), Experience Replay, and Target Networks.
+- ✅ **[04. Policy Gradients](04-Policy-Gradient/README.md)**: PPO (Proximal Policy Optimization), A2C, and SAC.
+- ✅ **[05. Model-Based RL](05-Model-Based-RL/README.md)**: Understanding environment modeling and planning.
+- ✅ **[06. Multi-Agent RL](06-Multi-Agent-RL/README.md)**: Cooperative and competitive agent environments.
+- ✅ **[07. Applications](07-Applications/README.md)**: Finance, Robotics, Gaming, and RLHF.
+- ✅ **[08. Projects](08-Projects/README.md)**: Hands-on RL environments and roadmaps.
+- ✅ **[09. Research Papers](09-Research-Papers/README.md)**: Classical to Modern SOTA papers.
+- ✅ **[10. Interview Prep](10-Interview-Prep/README.md)**: RL Theory and implementation Q&A.
 
 ---
 
